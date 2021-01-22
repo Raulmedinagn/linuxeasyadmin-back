@@ -1,10 +1,12 @@
 # LINUX EASY ADMIN
+This project was developed by [Karol](https://github.com/krl42c) and me.
 
 Linux Easy Admin is an open-source tool used to manage GNU/Linux systems.
 
 This repository only contains the API, written in Python using Flask.
 
-You can use the API as it is, build your own front-end, or use [lea-front](https://www.github.com/krl42c/lea-front).
+You can use the API as it is, build your own front-end, or use [linuxeasyadmin-front](https://github.com/Raulmedinagn/linuxeasyadmin-front).
+
 
 
 ## INSTALLATION 
