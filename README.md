@@ -1,4 +1,5 @@
 # LINUX EASY ADMIN
+This project was developed by [Karol](https://github.com/krl42c) and me.
 
 Linux Easy Admin is an open-source tool used to manage GNU/Linux systems.
 
